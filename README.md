@@ -5,7 +5,7 @@
 
 🌍 **Bridging the gap between development & operations!**
 
-![DevOps](https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif)
+![DevOps](https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif)
 
 ---
 
