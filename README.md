@@ -18,7 +18,7 @@ I spend my days:
 
 ## Find Me on the Internet
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devanshu_Singh-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanshu-singh-582aa6193/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devanshu_Singh-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanshu0611/)
 
 ---
 
